@@ -1,0 +1,12 @@
+feature,area,priority,original,clone,notes
+Chat with an agent,core loop,must,yes,partial,Local offline echo only; no live agent in minimal build
+Terminal with a Linux shell,core loop,must,yes,no,Visual scaffold only; no real shell in minimal build
+Switch between chat and terminal,navigation,must,yes,yes,
+Send text messages,core loop,must,yes,yes,
+See message history,core loop,should,yes,yes,
+About screen with creator links,navigation,should,no,yes,Added in this clean-room build
+Agent MCP tools,agents,could,yes,skip,Requires agent runtime; out of scope for minimal replica
+Built-in code editor,editor,could,yes,skip,Out of scope for minimal replica
+Agent-controlled browser,browser,could,yes,skip,Out of scope for minimal replica
+Mini app catalog,mini apps,could,yes,skip,Their catalog and content are not cloned
+Bundled Termux rootfs,binary assets,could,yes,skip,Binary assets and licences are not copied

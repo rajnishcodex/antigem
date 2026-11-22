@@ -1,0 +1,16 @@
+{
+  "avoid": ["AntiGem", "Santoshkurmi"],
+  "app_store": {
+    "name": "RajnishGem",
+    "subtitle": "Clean-room mobile workspace",
+    "promotional_text": "A chat shell, a terminal shell and creator links in a small Android app.",
+    "description": "RajnishGem is a small Android workspace with a chat screen, a terminal-style screen and an About panel with creator links. It is written from scratch as a clean-room project and does not include an agent runtime or a real shell.",
+    "keywords": "chat,terminal,mobile,workspace,cleanroom",
+    "whats_new": "First clean-room release."
+  },
+  "google_play": {
+    "title": "RajnishGem",
+    "short_description": "Clean-room mobile workspace",
+    "full_description": "RajnishGem is a small Android workspace with a chat screen, a terminal-style screen and an About panel with creator links. It is written from scratch as a clean-room project and does not include an agent runtime or a real shell."
+  }
+}

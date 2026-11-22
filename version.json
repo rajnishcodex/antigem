@@ -1,0 +1,10 @@
+{
+  "version_code": 1,
+  "version_name": "1.0.0",
+  "changelog": [
+    "First clean-room RajnishGem release",
+    "Chat shell, terminal shell and About panel",
+    "Creator branding: Instagram @i_rajnishmaurya, Telegram @rajnishcodex, GitHub @rajnishcodex",
+    "APK built and published by GitHub Actions"
+  ]
+}
